@@ -1,0 +1,85 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MySmartApp" Height="512" Width="933">
+    <Grid HorizontalAlignment="Left" Width="924">
+        <Canvas Height="475" VerticalAlignment="Top" Margin="0,0,-2,0">
+            <Canvas.Background>
+                <ImageBrush ImageSource="Global healthcare_2.jpg"/>
+            </Canvas.Background>
+            <TextBlock Canvas.Left="176" TextWrapping="Wrap" Text="ID:" Canvas.Top="39" RenderTransformOrigin="2.464,0.627"/>
+            <TextBox x:Name="txtID" Height="23" Canvas.Left="240" TextWrapping="Wrap" Canvas.Top="36" Width="118" RenderTransformOrigin="0.667,0.435"/>
+            <TextBlock Canvas.Left="165" TextWrapping="Wrap" Text="Name:" Canvas.Top="71"/>
+            <TextBox x:Name="txtName" Height="23" Canvas.Left="240" TextWrapping="Wrap" Canvas.Top="68" Width="120"/>
+            <TextBlock Canvas.Left="125" TextWrapping="Wrap" Text="Father'sName:" Canvas.Top="101"/>
+            <TextBox x:Name="txtFathersName" Height="23" Canvas.Left="240" TextWrapping="Wrap" Canvas.Top="98" Width="120"/>
+            <TextBlock Canvas.Left="154" TextWrapping="Wrap" Text="Gender:" Canvas.Top="131" RenderTransformOrigin="2.464,0.627"/>
+            <ComboBox x:Name="cmbGender" Canvas.Left="240" Canvas.Top="131" Width="120"/>
+            <TextBlock Canvas.Left="175" TextWrapping="Wrap" Text="Age:" Canvas.Top="170" RenderTransformOrigin="2.464,0.627"/>
+            <TextBox x:Name="txtAge" Height="23" Canvas.Left="240" TextWrapping="Wrap" Canvas.Top="166" Width="120" RenderTransformOrigin="0.667,0.435" />
+            <TextBlock Canvas.Left="175" TextWrapping="Wrap" Text="Age:" Canvas.Top="170" RenderTransformOrigin="2.464,0.627"/>
+            <TextBlock Canvas.Left="170" TextWrapping="Wrap" Text="Email:" Canvas.Top="205" RenderTransformOrigin="2.464,0.627"/>
+            <TextBox x:Name="txtEmail" Height="23" Canvas.Left="240" TextWrapping="Wrap" Canvas.Top="201" Width="120" RenderTransformOrigin="0.667,0.435"/>
+            <TextBlock Canvas.Left="140" TextWrapping="Wrap" Text="ContactNo:" Canvas.Top="236" RenderTransformOrigin="2.464,0.627"/>
+            <TextBox x:Name="txtContactNo" Height="23" Canvas.Left="241" TextWrapping="Wrap" Canvas.Top="231" Width="120" />
+            <Button x:Name="btnInsert" Content="Insert" Canvas.Left="240" Canvas.Top="290" Width="60" Click="BtnInsert_Click"/>
+            <Button x:Name="btnUpdate" Content="Update" Canvas.Left="405" Canvas.Top="290" Width="60" RenderTransformOrigin="1.167,4.7" Click="btnUpdate_Click"/>
+            <Button x:Name="btnDelete" Content="Delete" Canvas.Left="485" Canvas.Top="290" Width="60"/>
+            <Button x:Name="btnShowAll" Content="ShowAll" Canvas.Left="320" Canvas.Top="290" Width="60" Click="btnShowAll_Click" RenderTransformOrigin="0.667,-5"/>
+            <TextBox Height="30" Canvas.Left="312" TextWrapping="Wrap" Text="   Patient Information " Width="233" FontSize="24" FontFamily="Baskerville Old Face" FontStyle="Italic" SelectionBrush="#FFD430E4" Foreground="{DynamicResource {x:Static SystemColors.MenuHighlightBrushKey}}" Canvas.Top="2"/>
+            <ListView x:Name="lstPatient" Height="128" Canvas.Left="-1" Canvas.Top="324" Width="923" BorderBrush="#FF2763CF" >
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Image">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Image HorizontalAlignment="Left" Height="Auto" VerticalAlignment="Top" Width="20" Source="{Binding ImageSrc}"/>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="ID" Width="30"   DisplayMemberBinding="{Binding ID}"/>
+                        <GridViewColumn Header="Gender" Width="60" DisplayMemberBinding="{Binding Gender}"/>
+                        <GridViewColumn Header=" Name" Width="120" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="FathersName" Width="120" DisplayMemberBinding="{Binding FathersName}"/>
+                        <GridViewColumn Header="Age" Width="40" DisplayMemberBinding="{Binding Age}"/>
+                        <GridViewColumn Header="Email" Width="120" DisplayMemberBinding="{Binding Email}"/>
+                        <GridViewColumn Header="Contact" Width="80" DisplayMemberBinding="{Binding ContactNo}"/>
+                        <GridViewColumn Header="DateTime" Width="80" DisplayMemberBinding="{Binding DateTime}"/>
+                        <GridViewColumn Header="View" Width="60">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="View" Name="View" Click="View_Click" CommandParameter="{Binding}"></Button>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Update" Width="60">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Update" Name="Update" Click="Update_Click" CommandParameter="{Binding}"></Button>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                        <GridViewColumn Header="Delete" Width="60">
+                            <GridViewColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="Delete" Name="Delete" Click="Delete_Click" CommandParameter="{Binding}"></Button>
+                                </DataTemplate>
+                            </GridViewColumn.CellTemplate>
+                        </GridViewColumn>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <DatePicker x:Name="txtDateTime" Canvas.Left="241" Canvas.Top="262" Width="118"/>
+            <TextBlock Canvas.Left="140" TextWrapping="Wrap" Text="Date/Time:" Canvas.Top="263"/>
+            <Image x:Name="formPic" Height="118" Canvas.Left="501" Canvas.Top="71" Width="115" Source="Patient.png"/>
+            <Button x:Name="btnUpload" Content="Upload" Canvas.Left="521" Canvas.Top="205" Width="75" Click="btnUpload_Click"/>
+            <TextBlock Canvas.Left="446" TextWrapping="Wrap" Text="Image" Canvas.Top="128"/>
+        </Canvas>
+
+
+    </Grid>
+</Window>

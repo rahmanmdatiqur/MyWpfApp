@@ -1,0 +1,257 @@
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Contacts\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+F:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+F:\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\1270028\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\student\Desktop\Project\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\New folder\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\New folder\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\ATIQUR\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\ATIQUR\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe
+F:\ATIQUR\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\ATIQUR\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+F:\ATIQUR\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.g.cs
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\App.g.cs
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.baml
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.baml
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.exe
+F:\ATIQUR\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1 photo\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Desktop\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+F:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+D:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\ATIQUR\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\ATIQUR\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ASUS\Contacts\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\ViewWindow.g.cs
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\ViewWindow.baml
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\R_51_Atiqur\All C#\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
